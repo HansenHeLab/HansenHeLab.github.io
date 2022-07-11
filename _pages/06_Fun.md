@@ -25,6 +25,22 @@ sitemap: false
         <p>Saying goodbye to Helen & Victoria!</p>
       </div>
     </div>
+    
+    <div class="item">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/fun/JointPartyNotta2022.jpg" alt="JointParty2022">
+      <div class="carousel-caption">
+        <p>Joint Party, 2022</p>
+        <p>Joint beach party with the Notta Lab.</p>
+      </div>
+    </div>
+
+    <div class="item">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/fun/JointPartyNotta2_2022.jpg" alt="JointParty2022_2">
+      <div class="carousel-caption">
+        <p>Joint Party, 2022</p>
+        <p>More fun with the Notta Lab at Woodbine Beach!</p>
+      </div>
+    </div>
   </div>
 
   <!-- Left and right controls -->
