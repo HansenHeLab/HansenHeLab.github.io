@@ -10,10 +10,12 @@ sitemap: false
 
 ## 2022
 
-<div markdown="0" id="carousel2021" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
+<div markdown="0" id="carousel2022" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
   <!-- Indicators -->
   <ol class="carousel-indicators">
     <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="2"></li>
   </ol>
 
   <!-- Wrapper for slides -->
@@ -27,7 +29,7 @@ sitemap: false
     </div>
     
     <div class="item">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/fun/JointPartyNotta2022.jpg" alt="JointParty2022">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/fun/JointPartyNotta2022.jpeg" alt="JointParty2022">
       <div class="carousel-caption">
         <p>Joint Party, 2022</p>
         <p>Joint beach party with the Notta Lab.</p>
@@ -35,7 +37,7 @@ sitemap: false
     </div>
 
     <div class="item">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/fun/JointPartyNotta2_2022.jpg" alt="JointParty2022_2">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/fun/JointPartyNotta2_2022.jpeg" alt="JointParty2022_2">
       <div class="carousel-caption">
         <p>Joint Party, 2022</p>
         <p>More fun with the Notta Lab at Woodbine Beach!</p>
