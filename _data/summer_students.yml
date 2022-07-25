@@ -1,17 +1,5 @@
-- name: Kashif Daud
-  photo: kashif.jpeg
-  info: Summer Student
-  email:
-  description: Kashif has completed his undergraduate degree in Life Sciences at McMaster University.  His project focuses on reviewing both existing and new RNA therapies that are being used to treat diseases such as cancer.
-
-- name: Xinyi Zhang
-  photo: xinyi.jpg
-  info: Summer Student
-  email: charliexinyi.zhang@mail.utoronto.ca
-  description: Xinyi is a fourth-year undergraduate student at University of Toronto specializing in bioinformatics. Her project is on identifying the genetic and genomic determinants of circular RNA formation.
-
-- name: Nicholas Lo
-  photo: nicholas.jpg
-  info: Summer Student
-  email:
-  description: Nicholas is an undergraduate student attending the Medical Science Program at Western University.  His focus in the summer of 2021 is literature review of CRISPR and base-editing techniques.
+- name: Michelle MacNeily
+  photo: Michelle.jpg
+  info: Summer Research Student
+  email: mimimacneily@gmail.com
+  description: "I am a third year bachelor of science student at Saint Mary’s University in Halifax, Nova Scotia, where I also play on the women’s varsity soccer team. I aspire to work in the medical field one day as I find it to be very fulfilling. I am grateful to work in the Hansen He Lab this summer and I look forward to future projects." 
