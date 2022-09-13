@@ -21,7 +21,7 @@
 - name: Nicholas Lo
   photo: nicholas.jpg
   info: Summer Student
-  current: Student at Western University
+  current: BSc Student, Western University
 
 - name: Yin Liu
   photo: yin.jpg
@@ -71,12 +71,12 @@
 - name: Miranda Wang
   photo: miranda.jpg
   info: Staff
-  current: "Dentistry at Western"
+  current: "Dentistry at  Western University"
 
 - name: Jennifer Lu
   photo: jenniferlu.jpeg
   info: Volunteer
-  current: "Undergraduate Student at U of T"
+  current: "Undergraduate Student, University of Toronto"
 
 - name: Christine Sarah Poon
   photo: christinesarahpoon.jpg
@@ -91,12 +91,12 @@
 - name: Urooj Sheikh
   photo: uroojsheikh.jpg
   info: Summer student, 2015
-  current: "BSc student in University of Toronto-Mississauga"
+  current: "BSc Student, University of Toronto-Mississauga"
 
 - name: Yuchen Li
   photo: yuchenli.jpg
   info: Summer student, 2015
-  current: "Medical student, University of Toronto"
+  current: "Medical Student, University of Toronto"
 
 - name: Catherine Lu
   photo: silhouette.jpg
@@ -106,27 +106,27 @@
 - name: Yi Liang
   photo: yiliang.jpeg
   info: Postdoctoral Research Fellow, 2016
-  current: "Research associate, TMDT"
+  current: "Research Associate, TMDT"
 
 - name: Tran Nguyen
   photo: trannguyen.jpg
   info: Intern, 2016
-  current: "MSc student, McGill University"
+  current: "MSc Student, McGill University"
 
 - name: Xiaotong Yang
   photo: xiaotongyang.jpg
   info: Research Student, 2016
-  current: "BSc student, University of Toronto"
+  current: "BSc Student, University of Toronto"
 
 - name: Xutao Wang
   photo: xutaowang.jpg
   info: Research Student, 2017
-  current: "MSc student, Harvard University"
+  current: "MSc Student, Harvard University"
 
 - name: Xue Bai
   photo: xuebai.jpg
   info: Visiting scholar, 2017
-  current: "Director of Forensic Medicine, Ministry of public security China"
+  current: "Director of Forensic Medicine, Ministry of Public Security China"
 
 - name: Yuzhe Zhang
   photo: yuzhezhang.jpeg
