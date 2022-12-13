@@ -76,7 +76,7 @@ sitemap: false
 
 {% endfor %}
 
-### Summer Students
+<!-- ### Summer Students
 {% for member in site.data.summer_students %}
 
 <div class="col-sm-12 clearfix">
@@ -86,9 +86,9 @@ sitemap: false
   <i>{{ member.info }}<br> {{ member.email }}</i>
   <h5> {{ member.description }} </h5>
   </ul>
-</div>
+</div> 
 
-{% endfor %}
+{% endfor %} -->
 
 ### Alumni
 {% assign number_printed = 0 %}
