@@ -2,28 +2,46 @@
   photo: peiran.jpeg
   info: PhD Candidate
   email: peiran.su@mail.utoronto.ca
-  description: Peiran received his Honours of Bachelor of Science degree at University of Toronto in Biochemistry. He is now a M. Sc. candidate in the Department of Medical Biophysics. Peiran is co-supervised by Dr. Ming Tsao. His research is focused on extending the CRISPR screens into SCLC PDX models.
+  description: Peiran received his Honours of Bachelor of Science degree at University of Toronto in Biochemistry. He is now a PhD Candidate in the Department of Medical Biophysics. Peiran is co-supervised by Dr. Ming Tsao. His research is focused on extending the CRISPR screens into SCLC PDX models.
 
 - name: Mona Teng
   photo: mona.jpeg
   info: PhD Candidate
   email: mona.teng@mail.utoronto.ca
-  description : Mona obtained her Honours Bachelor of Science at University of Toronto with a specialist in Laboratory Medicine and Pathobiology and a major in Biochemistry. She is currently a masters student in the department of Medical Biophysics. Her current project focuses on characterizing circular RNAs implicated in neuroendocrine prostate cancer. Mona is also co-supervised by Dr. Brian Raught to develop a new method for elucidating RNA-protein interactome.
+  description: Mona obtained her Honours Bachelor of Science at University of Toronto with a specialist in Laboratory Medicine and Pathobiology and a major in Biochemistry. She is currently a masters student in the department of Medical Biophysics. Her current project focuses on characterizing circular RNAs implicated in neuroendocrine prostate cancer. Mona is also co-supervised by Dr. Brian Raught to develop a new method for elucidating RNA-protein interactome.
 
 - name: Helen Zhu
   photo: helen.jpg
   info: PhD Candidate
   email: helen.zhu@mail.utoronto.ca
-  description : Helen received her undergraduate degree from McMaster University in the BHSc (Hons) program with a specialization in Biochemistry and a minor in Mathematics. She is currently a PhD student in the Department of Medical Biophysics. Her current project focuses on M6A modifications in cancer.
+  description: Helen received her undergraduate degree from McMaster University in the BHSc (Hons) program with a specialization in Biochemistry and a minor in Mathematics. She is currently a PhD Candidate in the Department of Medical Biophysics. Her current project focuses on M6A modifications in cancer.
 
 - name: Linsey Gong
   photo: linsey.png
   info: MSc Student
   email: linsey.gong@mail.utoronto.ca
-  description : Linsey obtained her bachelor’s degree from the University of Toronto with a double major in Molecular Genetics and Pharmacology. Currently, she is an MSc student in the Department of Medical Biophysics as co-supervised by Dr. Faiyaz Notta. Linsey is investigating the usage of circulating extracellular RNAs as diagnostic and predictive biomarkers in pancreatic cancer. 
+  description: Linsey obtained her bachelor’s degree from the University of Toronto with a double major in Molecular Genetics and Pharmacology. Currently, she is an MSc student in the Department of Medical Biophysics as co-supervised by Dr. Faiyaz Notta. Linsey is investigating the usage of circulating extracellular RNAs as diagnostic and predictive biomarkers in pancreatic cancer. 
 
 - name: Peter Her
   photo: peter.jpeg
   info: MSc Student
   email: peter.her@mail.utoronto.ca
-  description : Peter obtained his bachelor’s degree from McGill University with a major in Pharmacology. He is currently a Masters student in the Department of Medical Biophysics. He is interested in characterizing the molecular mechanism and clinical utilization of RNA circularization, and looking at circular RNAs involved in immune regulation and tumour immunity.
+  description: Peter obtained his bachelor’s degree from McGill University with a major in Pharmacology. He is currently a Masters student in the Department of Medical Biophysics. He is interested in characterizing the molecular mechanism and clinical utilization of RNA circularization, and looking at circular RNAs involved in immune regulation and tumour immunity.
+
+- name: Vivian Chu
+  photo: vivian.jpg
+  info: PhD Student
+  email: vivian.chu@mail.utoronto.ca
+  description: Vivian obtained her Honours Bachelor of Science at the University of Waterloo in Molecular Genetics and Bioinformatics. She is currently a PhD student in the Department of Medical Biophysics, co-supervised by Dr. Bo Wang. She is interested in multi-omics integration and artificial intelligence for cancer.
+
+- name: Magnus Lam
+  photo: magnus.jpg
+  info: 
+  email: magnus.lam@mail.utoronto.ca
+  description:
+
+- name: Lin Yang
+  photo: lin.jpg
+  info: 
+  email: ln.yang@mail.utoronto.ca
+  description:
