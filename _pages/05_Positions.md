@@ -11,10 +11,6 @@ sitemap: false
 ### Postdoctoral Fellowships & Research Associates
 We are currently seeking computational and experimental postdoctoral fellows to take lead on research projects in the field of cancer genomics and epigenomics, including noncoding RNA functional screening, RNA editing and epigenetic therapy. Candidates with strong background in genomics, epigenetics, molecular/cancer biology and bioinformatics are encouraged to apply.
 
-Computational postdoc/research associate
-
-Job description and qualifications
-
 Qualifications for Computational Postdoctoral Fellow
 
 * Recent Ph.D in bioinformatics, computer science, statistics or related areas
@@ -44,8 +40,10 @@ Qualifications for Experimental Postdoctoral Fellow
 
 For consideration, please directly send a CV, a brief statement of scientific/research interests, contact information, at least two references and start date availability to: Hansen.He@uhnresearch.ca
 
+
 ### Graduate Students
 The He Laboratory welcomes graduate students interested in cancer genetics and epigenetics. Prospective graduate students will need to apply to the [Department of Medical Biophysics](https://medbio.utoronto.ca/medical-biophysics) at the University of Toronto.
+
 
 ### Undergraduate Students
 Undergraduate students interested in completing a project course or a summer internship are invited to email Dr. He directly. Summer internships are also available through the [Department of Medical Biophysics Summer Student Program](https://medbio.utoronto.ca/summer-student-program-overview).
