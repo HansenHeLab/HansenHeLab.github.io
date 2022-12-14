@@ -6,12 +6,12 @@
 
 - name: Nayeema Akhtar
   photo: nayeema.jpg
-  info: Research Technician
+  info: Lab Manager / Research Technician II
   email: nayeema.akhtar@uhnresearch.ca
-  description : Nayeema has a MSc in Biochemistry and Molecular Biology from the University of Dhaka, with a focus on Immunology and vaccine development. She is currently working as a Research Technician at He Lab.
+  description: Nayeema has a MSc in Biochemistry and Molecular Biology from the University of Dhaka, with a focus on Immunology and vaccine development. She manages the day- to- day operation of He lab to ensure everything runs smoothly. 
 
 - name: Dave Guo
   photo: dave.jpg
   info: Research Technician
   email:
-  description : Dave obtained his MSc at the University of Toronto. His work focused on the impact of air pollution on lung infections in cystic fibrosis using mouse models. He is currently working as a research technician in the lab.
+  description: Dave obtained his MSc at the University of Toronto. His work focused on the impact of air pollution on lung infections in cystic fibrosis using mouse models. He is currently working as a research technician in the lab.
