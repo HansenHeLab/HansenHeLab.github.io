@@ -32,13 +32,13 @@
   photo: vivian.jpg
   info: PhD Student
   email: vivian.chu@mail.utoronto.ca
-  description: Vivian obtained her Honours Bachelor of Science at the University of Waterloo in Molecular Genetics and Bioinformatics. She is currently a PhD student in the Department of Medical Biophysics, co-supervised by Dr. Bo Wang. She is interested in multi-omics integration and artificial intelligence for cancer.
+  description: Vivian obtained her Honours Bachelor of Science at the University of Waterloo in Molecular Genetics and Bioinformatics. She is currently a PhD student in the Department of Medical Biophysics, co-supervised by Dr. Bo Wang. She is interested in applying deep learning algorithms to improve RNA therapeutic development and multi-omic integration to decipher cancer etiology.
 
 - name: Magnus Lam
   photo: magnus.jpg
-  info: 
+  info: MSc Student
   email: magnus.lam@mail.utoronto.ca
-  description:
+  description: Magnus obtained his Honours Bachelor of Science from the University of Toronto Scarborough in the Molecular Biology and Biotechnology Co-op program. He spent his Co-op term at the Princess Margaret Cancer Biobank as a Technician. He is currently a Masters student in the Department of Medical Biophysics. His research interests are identifying epigenetic-based therapeutic targets in prostate cancer and the potential of using circulating bacterial DNA methylome as a cancer biomarker.
 
 - name: Lin Yang
   photo: lin.jpg
