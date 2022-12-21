@@ -42,6 +42,6 @@
 
 - name: Lin Yang
   photo: lin.jpg
-  info: 
+  info: PhD Student
   email: ln.yang@mail.utoronto.ca
-  description:
+  description: Lin obtained his master’s degree in Bioinformatics from George Washington University in the U.S. He is currently a PhD student in the Department of Medical Biophysics. He is interested in methodology development based on the High-throughput sequencing data specific for single-cell level. Lin is also co-supervised by Dr. Schwartz to develop new algorithms to integrate multiple modularities to infer cell lineage.
