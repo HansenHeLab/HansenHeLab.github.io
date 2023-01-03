@@ -23,13 +23,13 @@
   description: Tianyi went to Purdue University for college where she majored in Math and Biology. After graduation, she worked as a research associate in Indiana University Bloomington for about two years before attending graduate school at Duke University in 2016. For her PhD study, she worked on liver regeneration project in which she applied single cell omics analysis and molecular genetics to understand how mammalian liver orchestrates its effective tissue recovery in response to acute injury. Tianyi joined He lab in September 2022. Outside of the lab, she enjoys reading, hiking, running, and playing with her cat :)
 
 - name: Chengpeng Gui
-  photo: chengpeng.jpg
+  photo: chengpeng-gui.jpg
   info: Postdoctoral Fellow
-  email:
-  description:
+  email: chengpeng.gui@uhn.ca
+  description: Chengpeng acquired his MD degree in major of Urological Surgery at Sun Yat-sen University, China. His MD work studied the role of circCHST15 in renal cell carcinoma progression by using in vitro & in vivo experiments，also mining genetic predictive model, through multi-omics bioinformatics analyses. He seeks to identify and study circular RNAs in prostate cancer precision therapy. And Chengpeng joined Dr. Hansen He’s lab in December 2022 and is currently working on circRNA database building, circulation mechanisms and circRNA interaction with TF involved in neuroendocrine prostate cancer.
 
 - name: Jiaying Li
-  photo: jiaying.jpg
+  photo: jiaying-li.jpg
   info: Postdoctoral Fellow
-  email: lijy685@mail.sysu.edu.cn
-  description: 
+  email: jiaying.li@uhn.ca
+  description: Jiaying obtained her M.D. from Sun Yat-sen University, majoring in Urology Surgery. She is currently joining the project of circular RNA in prostate cancer and is going to carry out series experiments.
